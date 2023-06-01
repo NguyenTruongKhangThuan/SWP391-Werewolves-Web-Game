@@ -1,6 +1,8 @@
 # SWP391-Werewolves-Web-Game
 This is project Werewolves Web Game. A rendition of a classic beloved
 
+# Link: https://www.figma.com/file/9958zxvEMy7STHGuWLrvzd/SWP391-Werewolves-Web-Game?type=design&node-id=102%3A31&t=B7VoBOuDCc48biC5-1
+
 ## 1. Context
 
 For students in FPT University, Werewolves is one of the most common boardgames to play since it is simple yet challenging in terms of using logical thoughts to define the truth around everyone. Most people will think of it as a great way to relax and have some fun around logical thoughts.
