@@ -14,12 +14,14 @@ import Gamebegin from './Pages/gamebegin';
 import Setting from './Pages/setting';
 import './App.css';
 import Change from './Pages/change';
+import Welcome from './Pages/welcome';
 function App() {
   return (
     <>
       <BrowserRouter>
         <Routes>
-          <Route path='/' element={<Signup/>}></Route>
+          <Route path='/' element={<Welcome/>}></Route>
+          <Route path='/signup' element={<Signup/>}></Route>
           <Route path='/mainpage' element={<Mainpage/>}></Route>
           <Route path='/inventory' element={<Inventory/>}></Route>
           <Route path='/mission' element={<Mission/>}></Route>
