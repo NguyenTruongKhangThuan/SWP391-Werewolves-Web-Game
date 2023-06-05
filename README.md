@@ -1,7 +1,8 @@
 # SWP391-Werewolves-Web-Game
 This is project Werewolves Web Game. A rendition of a classic beloved
 
-# Link: https://www.figma.com/file/9958zxvEMy7STHGuWLrvzd/SWP391-Werewolves-Web-Game?type=design&node-id=102%3A31&t=B7VoBOuDCc48biC5-1
+# Link: 
+[https://www.figma.com/file/9958zxvEMy7STHGuWLrvzd/SWP391-Werewolves-Web-Game?type=design&node-id=102%3A31&t=B7VoBOuDCc48biC5-1](https://www.figma.com/file/oUXW6thST6MDXWSbMxsq86/Version-1.0?type=design&node-id=1%3A16&t=XasYI0Ma6SgEhRCy-1)
 
 ## 1. Context
 
